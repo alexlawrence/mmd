@@ -1,0 +1,7 @@
+mmd - minimal module definition
+
+Copyright 2012, Alex Lawrence
+Licensed under the MIT license.
+http://www.opensource.org/licenses/MIT
+
+The above copyright notice does not have to be included in the source code.
