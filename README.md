@@ -1,6 +1,6 @@
 #mmd
 
-Minimal module definition conforming to the [AMD](https://github.com/amdjs/amdjs-api/wiki/AMD).
+Minimal module definition conforming to [AMD](https://github.com/amdjs/amdjs-api/wiki/AMD).
 
 ###Motivation
 
