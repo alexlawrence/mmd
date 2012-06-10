@@ -1,7 +1,5 @@
-mmd - minimal module definition
+mmd - minimal module definition conforming to AMD
 
-Copyright 2012, Alex Lawrence
-Licensed under the MIT license.
-http://www.opensource.org/licenses/MIT
+Authors: Alex Lawrence (info@alex-lawrence.com), Peet and the readers of dailyjs.com
 
-The above copyright notice does not have to be included in the source code.
+You are free to do whatever you want with this code. No warranties of any kind.
